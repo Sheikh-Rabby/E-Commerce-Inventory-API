@@ -1,0 +1,146 @@
+# Ignore Visual Studio temporary files, build results, and user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+# Visual Studio cache/options directory
+vs/
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+# Node.js dependencies
+node_modules/
+# Publish Web Output
+*.publish.xml
+*.azurePubxml
+# NuGet Packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+# SQL Server files
+*.mdf
+*.ldf
+# Others
+*.log
+*.tmp
+
+# Ignore Visual Studio temporary files, build results, and user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache/options directory
+vs/
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Node.js dependencies
+node_modules/
+
+# Publish Web Output
+*.publish.xml
+*.azurePubxml
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Others
+*.log
+*.tmp
+
+# Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.swp
+*.bak
+*.old
+*.orig
+.vs/E-Commerce Inventory API/CopilotIndices/17.14.995.13737/CodeChunks.db
+.vs/E-Commerce Inventory API/FileContentIndex/3dbd9522-882e-4125-b2bd-8e9f363a6518.vsidx
+.vs/E-Commerce Inventory API/FileContentIndex/4e5d9211-c256-4a70-acc2-7339a7edfdae.vsidx
+.vs/E-Commerce Inventory API/FileContentIndex/217e4cb7-d660-43c4-856d-261186aa70f6.vsidx
+.vs/E-Commerce Inventory API/FileContentIndex/535c2648-2c84-45f2-b462-194d39c202e1.vsidx
+.vs/E-Commerce Inventory API/FileContentIndex/c3cdebae-f8ce-48e0-929f-530c3b41b005.vsidx
+.vs/E-Commerce Inventory API/v17/.futdcache.v2
+.vs/E-Commerce Inventory API/DesignTimeBuild/.dtbcache.v2
+.vs/E-Commerce Inventory API/CopilotIndices/17.14.995.13737/SemanticSymbols.db
+.vs/E-Commerce Inventory API/config/applicationhost.config
+
+# ASP.NET MVC specific files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.dbmdl
+*.jfm
+*.log
+*.vspscc
+*.vssscc
+
+# Publish output
+*.publishsettings
+*.pubxml
+*.pubxml.user
+
+# Web-specific files
+E-Commerce Inventory API/wwwroot/lib/
+E-Commerce Inventory API/wwwroot/css/
+E-Commerce Inventory API/wwwroot/js/
+E-Commerce Inventory API/wwwroot/lib/
+
