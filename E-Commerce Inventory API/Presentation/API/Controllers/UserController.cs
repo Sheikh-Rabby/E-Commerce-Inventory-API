@@ -1,4 +1,4 @@
-﻿using E_Commerce_Inventory_API.DTOS;
+﻿using E_Commerce_Inventory_API.Application.DTOS;
 using E_Commerce_Inventory_API.Services;
 using E_Commerce_Inventory_API.Src.Domain.Models;
 using Microsoft.AspNetCore.Authorization;

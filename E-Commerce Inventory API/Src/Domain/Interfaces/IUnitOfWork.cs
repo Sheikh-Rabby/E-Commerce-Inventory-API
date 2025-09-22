@@ -1,4 +1,4 @@
-﻿using E_Commerce_Inventory_API.Src.Domain.Interfaces.Repositories;
+﻿using E_Commerce_Inventory_API.Interfaces.Repositories;
 
 namespace E_Commerce_Inventory_API.Src.Domain.Interfaces
 {

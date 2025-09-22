@@ -1,8 +1,8 @@
 ﻿using E_Commerce_Inventory_API.data;
-using E_Commerce_Inventory_API.Models;
+using E_Commerce_Inventory_API.Src.Domain.Models;
 using E_Commerce_Inventory_API.Repositories;
 using E_Commerce_Inventory_API.Src.Domain.Interfaces;
-using E_Commerce_Inventory_API.Src.Domain.Interfaces.Repositories;
+using E_Commerce_Inventory_API.Interfaces.Repositories;
 
 
 namespace E_Commerce_Inventory_API.UnitOfWork

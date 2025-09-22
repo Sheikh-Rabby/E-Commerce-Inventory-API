@@ -1,5 +1,6 @@
 using E_Commerce_Inventory_API.data;
-using E_Commerce_Inventory_API.Interfaces;
+using E_Commerce_Inventory_API.Src.Domain.Interfaces;
+using E_Commerce_Inventory_API.Interfaces.Repositories;
 using E_Commerce_Inventory_API.UnitOfWork;
 using E_Commerce_Inventory_API.Services;
 using Microsoft.EntityFrameworkCore;

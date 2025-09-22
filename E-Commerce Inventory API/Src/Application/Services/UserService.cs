@@ -1,4 +1,4 @@
-﻿using E_Commerce_Inventory_API.Interfaces;
+﻿using E_Commerce_Inventory_API.Src.Domain.Interfaces;
 using E_Commerce_Inventory_API.Src.Domain.Models;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Identity;
