@@ -10,5 +10,6 @@ namespace E_Commerce_Inventory_API.Src.Domain.Models
         public int CategoryID { get; set; }
         public string Name { get; set; }
         public string? Description { get; set; }
+       public string? Description1 { get; set; }
     }
 }
